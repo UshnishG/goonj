@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Classic Literature",
+    "price": 299,
+    "image": "https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A timeless classic about the American Dream and the Jazz Age.",
+    "isbn": "978-0-7432-7356-5",
+    "pages": 180,
+    "language": "English"
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Classic Literature",
+    "price": 349,
+    "image": "https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A powerful story of racial injustice and childhood innocence.",
+    "isbn": "978-0-06-112008-4",
+    "pages": 324,
+    "language": "English"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Dystopian Fiction",
+    "price": 399,
+    "image": "https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A dystopian masterpiece about totalitarianism and surveillance.",
+    "isbn": "978-0-452-28423-4",
+    "pages": 328,
+    "language": "English"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Romance",
+    "price": 279,
+    "image": "https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A romantic novel about love, class, and society in 19th century England.",
+    "isbn": "978-0-14-143951-8",
+    "pages": 432,
+    "language": "English"
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "Young Adult",
+    "price": 329,
+    "image": "https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A coming-of-age story about teenage rebellion and alienation.",
+    "isbn": "978-0-316-76948-0",
+    "pages": 277,
+    "language": "English"
+  },
+  {
+    "id": 6,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 450,
+    "image": "https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "The magical beginning of Harry Potter's journey at Hogwarts.",
+    "isbn": "978-0-439-70818-8",
+    "pages": 309,
+    "language": "English"
+  },
+  {
+    "id": 7,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 599,
+    "image": "https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "An epic fantasy adventure through Middle-earth.",
+    "isbn": "978-0-618-64015-7",
+    "pages": 1216,
+    "language": "English"
+  },
+  {
+    "id": 8,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Philosophy",
+    "price": 199,
+    "image": "https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A philosophical novel about following your dreams.",
+    "isbn": "978-0-06-231500-7",
+    "pages": 163,
+    "language": "English"
+  },
+  {
+    "id": 9,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "category": "Science Fiction",
+    "price": 499,
+    "image": "https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "A science fiction epic set on the desert planet Arrakis.",
+    "isbn": "978-0-441-17271-9",
+    "pages": 688,
+    "language": "English"
+  },
+  {
+    "id": 10,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 359,
+    "image": "https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "Bilbo Baggins' unexpected journey to the Lonely Mountain.",
+    "isbn": "978-0-547-92822-7",
+    "pages": 366,
+    "language": "English"
+  }
+]
